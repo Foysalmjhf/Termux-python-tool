@@ -53,8 +53,8 @@ gem install lolcat
 chmod +x *
 
 cd core
-git clone https://github.com/Foysalmjhf/Termux-python-tool
-cd Termux-speak
+git clone https://github.com/Foysalmjhf/Termux-python-tool.git
+cd Termux-python-tool
 chmod +x *
 cd ..
 cd ..
